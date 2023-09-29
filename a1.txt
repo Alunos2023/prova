@@ -1,7 +1,11 @@
 <html>
  <body>
+<<<<<<< HEAD
   <h1>Prova</h1>
   <p>Linha extra<p>
   <p>teste<p> 
+=======
+  <h1>Prova</h1> 
+>>>>>>> master
  <body>
 </html>
